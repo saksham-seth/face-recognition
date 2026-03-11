@@ -1,5 +1,7 @@
 streamlit
 opencv-python-headless
 ultralytics
+tensorflow==2.15.1
 deepface
 numpy
+opencv-python-headless==4.8.0.74
